@@ -1,7 +1,7 @@
 # 8_BIT_CIPHER_DESIGN_AND_UVM_TB
 
 **Key points of Encryption Design:**
-1) PRNG (pseudo random generator) is used to encrypt the input data.
+1) PRNG (Pseudo random generator) is used to encrypt the input data.
 2) PRNG is implemented using an LFSR, updated on every clock edge.
 3) Interface is used to connect the design and UVM testbench
 4) Freq of clock = 100 Mhz
