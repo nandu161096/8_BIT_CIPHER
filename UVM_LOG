@@ -1,0 +1,86 @@
+# KERNEL: UVM_INFO @ 0: reporter [RNTST] Running test enc_test...
+# KERNEL: UVM_INFO /home/runner/testbench.sv(31) @ 10: uvm_test_top.e.a.seqr@@enc_seqr [SEQR] data_in 173
+# KERNEL: UVM_INFO /home/runner/testbench.sv(61) @ 15: uvm_test_top.e.a.d [DRV] data_in 173
+# KERNEL: UVM_INFO /home/runner/testbench.sv(31) @ 35: uvm_test_top.e.a.seqr@@enc_seqr [SEQR] data_in 26
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 45: uvm_test_top.e.a.m [MON] data in 173 enc 55 dec 173
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 45: uvm_test_top.e.a.m [MON] vif data in 173 enc 55 dec 173 prng 154
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 45: uvm_test_top.e.s [SCO] data in 173 enc 55 dec 173 prng_used 154 enc_out 55 dec out 173
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 45: uvm_test_top.e.s [SCO] TEST PASSED data in 173 enc 55 dec 173
+# KERNEL: UVM_INFO /home/runner/testbench.sv(61) @ 45: uvm_test_top.e.a.d [DRV] data_in 26
+# KERNEL: UVM_INFO /home/runner/testbench.sv(31) @ 65: uvm_test_top.e.a.seqr@@enc_seqr [SEQR] data_in 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 75: uvm_test_top.e.a.m [MON] data in 26 enc 112 dec 26
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 75: uvm_test_top.e.a.m [MON] vif data in 26 enc 112 dec 26 prng 106
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 75: uvm_test_top.e.s [SCO] data in 26 enc 112 dec 26 prng_used 106 enc_out 112 dec out 26
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 75: uvm_test_top.e.s [SCO] TEST PASSED data in 26 enc 112 dec 26
+# KERNEL: UVM_INFO /home/runner/testbench.sv(61) @ 75: uvm_test_top.e.a.d [DRV] data_in 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 105: uvm_test_top.e.a.m [MON] data in 244 enc 92 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 105: uvm_test_top.e.a.m [MON] vif data in 244 enc 92 dec 244 prng 168
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 105: uvm_test_top.e.s [SCO] data in 244 enc 92 dec 244 prng_used 168 enc_out 92 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 105: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 92 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 135: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 135: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 135: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 135: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 165: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 165: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 165: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 165: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 195: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 195: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 195: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 195: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 225: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 225: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 225: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 225: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 255: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 255: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 255: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 255: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 285: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 285: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 285: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 285: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 315: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 315: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 315: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 315: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 345: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 345: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 345: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 345: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 375: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 375: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 375: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 375: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 405: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 405: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 405: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 405: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 435: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 435: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 435: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 435: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 465: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 465: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 465: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 465: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 495: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 495: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 495: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 495: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 525: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 525: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 525: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 525: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 555: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 555: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 555: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 555: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(129) @ 585: uvm_test_top.e.a.m [MON] data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(130) @ 585: uvm_test_top.e.a.m [MON] vif data in 244 enc 165 dec 244 prng 81
+# KERNEL: UVM_INFO /home/runner/testbench.sv(84) @ 585: uvm_test_top.e.s [SCO] data in 244 enc 165 dec 244 prng_used 81 enc_out 165 dec out 244
+# KERNEL: UVM_INFO /home/runner/testbench.sv(86) @ 585: uvm_test_top.e.s [SCO] TEST PASSED data in 244 enc 165 dec 244
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_objection.svh(1271) @ 595: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_report_server.svh(869) @ 595: reporter [UVM/REPORT/SERVER] 
+# KERNEL: --- UVM Report Summary ---
